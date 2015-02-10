@@ -1,0 +1,9 @@
+The name of the first balloon is redBalloon, and its altitude is at 100 meters.
+The name of the second balloon is blueBalloon, and its altitude is at 0 meters.
+The name of the first balloon is redBalloon, and its altitude is at 250 meters.
+The name of the second balloon is blueBalloon, and its altitude is at 150 meters.
+The name of the first balloon is redBalloon, and its altitude is at 100 meters.
+The name of the second balloon is blueBalloon, and its altitude is at 100 meters.
+The name of the first balloon is redBalloon, and its altitude is at 400 meters.
+The name of the second balloon is blueBalloon, and its altitude is at 0 meters.
+
